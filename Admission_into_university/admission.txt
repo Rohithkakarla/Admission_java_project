@@ -1,0 +1,20 @@
+Name : RK
+Age : 19
+Gender : Male
+Father Name : KBS
+Father Contact : 9764513254
+Father Occupation : Fm
+Mother Name : KSL
+Mother Contact : 123456789
+Mother Occupation : HM
+Admission Through : Intermediate Public Exam
+IPE Hall Ticket No : 5583210305
+IPE Total : 967
+Branch : Mechanical Engineering
+Year Fee Tution : 1,05,000 /-
+Hostel Fee : 95,000 /-
+Total Fee per Year : 2,00,000 /-
+Payment Mode : Online Transaction
+
+
+
